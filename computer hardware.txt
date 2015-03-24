@@ -1,0 +1,21 @@
+Motherboard: ASUS Rampage IV Extreme X79 motherboard $250
+
+CPU: Intel Core 17 5960X $1000
+
+RAM: Seagate Desktop HDD.15 ST4000DM000 4TB 5900 RPM 64MB Cache SATA 6.0Gb/s 3.5" Internal Hard Drive Bare Drive $200
+
+PSU: Silverstone Strider Gold Evolution 1000W ST 1000G $250
+
+HDD: 512GB SSD 6Gb/s Main + 4TB 6kRPM SATA 6Gb/s Storage $400
+
+Keyboard: Razer Blackwidow Ultimate Chroma $250
+
+Mouse: Razer Taipan $90
+
+Monitor: Dell UltraSharp 24" Monitor - U2414H $300
+
+Computer Case: Phanteks Enthoo Luxe Black $180
+
+GPU: Geforce GTX Titan Z $3000
+
+Sound Card: Asus - Xonar DX PCI Express Sound Card - Black $85
